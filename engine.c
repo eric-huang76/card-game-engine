@@ -4,6 +4,7 @@
 #include <wchar.h>
 
 
+
 int main(){
 	setlocale(LC_ALL, "");
 	wchar_t spade = L'\u2660';
